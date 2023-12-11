@@ -7,7 +7,7 @@ const lista = [
     {"name":"Custom Sucrette", "link":"https://customsucrette.glitch.me", "icon":"https://customsucrette.glitch.me/assets/favicon-w.png"},
     {"name":"BlobbyDex", "link":"https://blobbydex.onrender.com", "icon":"https://blobbydex.onrender.com/assets/img/favicon.png"},
     {"name":"Pokédex", "link":"https://zunaay.github.io/pkmn/", "icon":"https://zunaay.github.io/pkmn/icon.jpg"},
-    {"name":"just • lyrics", "link":"https://zunaay.github.io/zn-lyrics/", "icon":"https://zunaay.github.io/zn-lyrics/assets/favicon.png"}
+    {"name":"zn • lyrics", "link":"https://zunaay.github.io/zn-lyrics/", "icon":"https://zunaay.github.io/zn-lyrics/assets/favicon.png"}
 ]
 
 function cargarLista() {
