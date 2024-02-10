@@ -4,7 +4,7 @@ $(document).ready(function() {
 
 const lista = [
     {"name":"GardieMaker", "link":"https://gardiemaker.github.io", "icon":"https://gardiemaker.github.io/assets/img/favicon.png"},
-    {"name":"Custom Sucrette", "link":"https://customsucrette.glitch.me", "icon":"https://customsucrette.glitch.me/assets/favicon-w.png"},
+    {"name":"Custom Sucrette", "link":"https://customsucrette.github.io", "icon":"https://customsucrette.github.io/assets/favicon-w.png"},
     {"name":"BlobbyDex", "link":"https://blobbydex.onrender.com", "icon":"https://blobbydex.onrender.com/assets/img/favicon.png"},
     {"name":"Pokédex", "link":"https://zunaay.github.io/pkmn/", "icon":"https://zunaay.github.io/pkmn/icon.jpg"},
     {"name":"zn • lyrics", "link":"https://zunaay.github.io/zn-lyrics/", "icon":"https://zunaay.github.io/zn-lyrics/assets/favicon.png"}
